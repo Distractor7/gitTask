@@ -1,1 +1,3 @@
-print("Git is awesome!");
+let input = prompt("Enter a message please");
+
+print(input);
